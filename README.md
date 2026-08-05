@@ -40,7 +40,7 @@ Each query is designed to address specific business problems and provide actiona
 
 ## 📊 Power BI Dashboard
 ### HomePage
-![alt text](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/SCHEMA/Dashboard%20Home%20Page.jpeg)
+![alt text](    ![Power BI Dashboard] SCHEMA/Dashboard Home Page.jpeg)
 
 ### Page 2
 ![alt text](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/SCHEMA/Dashboard%20Page%202.jpeg)
