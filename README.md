@@ -30,7 +30,7 @@
 
 The dataset is structured into a database schema that includes tables for customers, orders, products, payments, and more. 
 Understanding this schema is essential for comprehending the relationships and dependencies between different data elements.
-![alt text]( ![Database Schema](SCHEMA/Customer_Database_Schema.JPG.png))
+( ![Database Schema](SCHEMA/Customer_Database_Schema.JPG.png))
 
 ### 📊 SQL Queries
 
@@ -43,7 +43,7 @@ Each query is designed to address specific business problems and provide actiona
 ![alt text]![E-Commerce Dashboard](SCHEMA/Dashboard%20Home%20Page.jpeg)
 
 ### Page 2
-![alt text](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/SCHEMA/Dashboard%20Page%202.jpeg)
+![Dashboard Page 2](SCHEMA/Dashboard%20Page%202.jpeg)
 
 ### ❓ Business Problem Questions
 
