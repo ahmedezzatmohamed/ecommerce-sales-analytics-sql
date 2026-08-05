@@ -40,7 +40,7 @@ Each query is designed to address specific business problems and provide actiona
 
 ## 📊 Power BI Dashboard
 ### HomePage
-![alt text]![E-Commerce Dashboard](SCHEMA/Dashboard%20Home%20Page.jpeg)
+![E-Commerce Dashboard](SCHEMA/Dashboard%20Home%20Page.jpeg)
 
 ### Page 2
 ![Dashboard Page 2](SCHEMA/Dashboard%20Page%202.jpeg)
